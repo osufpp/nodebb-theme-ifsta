@@ -1,0 +1,13 @@
+{
+	"id": "nodebb-theme-ifsta",
+    "library": "./index.js",
+	"hooks": [
+        { "hook": "filter:middleware.renderHeader", "method": "renderHeader" }
+    ],
+	"scripts": [
+		"lib/persona.js",
+		"lib/modules/nprogress.js",
+        "lib/modules/autohidingnavbar.min.js",
+		"lib/modules/slideout.min.js"
+	]
+}
