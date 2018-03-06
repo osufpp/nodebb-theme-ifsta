@@ -1,6 +1,6 @@
 {
   "name": "nodebb-theme-ifsta",
-  "version": "2.1.12",
+  "version": "2.2.0",
   "scripts": {
     "install": "node install.js"
   },
