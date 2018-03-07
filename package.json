@@ -1,9 +1,6 @@
 {
   "name": "nodebb-theme-ifsta",
   "version": "2.2.2",
-  "scripts": {
-    "install": "node install.js"
-  },
   "nbbpm": {
     "compatibility": "^0.8.0"
   },
@@ -29,11 +26,5 @@
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/osufpp/nodebb-theme-ifsta/issues"
-  },
-  "dependencies": {
-    "bluebird": "^2.9.34",
-    "lodash": "^3.10.1",
-    "npm": "^2.14.1",
-    "request": "^2.61.0"
   }
 }

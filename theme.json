@@ -1,5 +1,6 @@
 {
     "id": "nodebb-theme-ifsta",
+    "baseTheme": "nodebb-theme-persona",
     "name": "IFSTA",
     "description": "IFSTA theme for NodeBB.",
     "url": "https://github.com/osufpp/nodebb-theme-ifsta",
